@@ -22,5 +22,13 @@
     "confirmPassword": "lokesh",
     "IsAccepted": true,
     "timestamp": "2024-11-13T18:01:06.635Z"
+  },
+  {
+    "name": "karthick D",
+    "email": "karthickd.018@gmail.com",
+    "password": "kar123@#$",
+    "confirmPassword": "kar123@#$",
+    "IsAccepted": true,
+    "timestamp": "2024-11-14T04:09:50.237Z"
   }
 ]
